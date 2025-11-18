@@ -12,6 +12,7 @@ The program runs in a loop and allows multiple operations until the user chooses
 - Show all tasks in a clean list view
 - Mark tasks as **Done**
 - Delete tasks
+- update tasks
 - Store **deadlines** for each task
 - Easy to use and beginner friendly
 
